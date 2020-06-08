@@ -1,0 +1,2 @@
+# Cop-Robber-Bank-GUI
+University class assignment in which we had to use Java to create a simple GUI where Robbers and Cops appear in alternate order when the user left-clicks on the screen. The Robbers (RED CARS) always originate from a Bank and the Cops appear at the point on the screen where the user left-clicks. Each Robber moves in a different, random direction whenever the user right-clicks. Whereas the Robbers all move in different, random directions, all Cops move in one direction that changes each time the user creates a new Cop object.
